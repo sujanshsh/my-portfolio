@@ -14,10 +14,8 @@ sections:
     colors: colors-f
     backgroundSize: full
     text: >-
-      ## Hey I’m a developer. I’ve been born and raised in the world, and that’s
-      also where I’m based. I’m currently a free agent, ex-this, ex-that,
-      ex-super big name. When I’m not coding, writing or creating, I eat
-      cereals. I have a dog, check her out [@mygod](https://www.stackbit.com/).
+      ## Hey I’m a software engineer. I do things like writing code, debugging and fixing, developing logics and algorithms, application designing, system architecture designing, UI/UX designing, and much more.
+      Besides software career, I like listening to music, watching movies, eating new or regular delicious foods, travelling, etc.
     media:
       type: ImageBlock
       url: /images/about.jpg
@@ -124,7 +122,7 @@ sections:
         actions:
           - type: Link
             label: GitHub
-            url: 'https://github.com/'
+            url: 'https://github.com/sujanshsh'
         styles:
           self:
             textAlign: left
@@ -140,7 +138,7 @@ sections:
         actions:
           - type: Link
             label: LinkedIn
-            url: 'https://www.linkedin.com/'
+            url: 'https://linkedin.com/in/sujan-shakya-070b6312a'
         styles:
           self:
             textAlign: left

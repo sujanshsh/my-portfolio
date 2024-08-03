@@ -19,7 +19,7 @@ projectFeed:
   variant: variant-a
   styles:
     self:
-      width: narrow
+      width: wide
       padding:
         - pt-0
         - pl-4
